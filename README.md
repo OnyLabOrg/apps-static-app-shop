@@ -1,0 +1,1 @@
+# apps-static-app-shop
